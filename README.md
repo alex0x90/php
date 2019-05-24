@@ -2,7 +2,7 @@
 
 Study project developed together with Yuval Dahan as part of teamwork.
 
-Technology used:&nbsp;
+<b>Technology used:</b>&nbsp;
 
 Client: HTML,CSS, Javascript, JQuery,Ajax.&nbsp;
 
