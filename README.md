@@ -2,6 +2,8 @@
 
 Study project developed together with Yuval Dahan as part of teamwork.
 
+Project Mentor: Effi Profus
+
 <b>Technology used:</b>&nbsp;
 
 Client: HTML,CSS, Javascript, JQuery,Ajax.&nbsp;
